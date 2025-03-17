@@ -30,5 +30,4 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jang4360&show_icons=true&theme=dark" alt="GitHub Stats" width="50%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jang4360&theme=dark" alt="GitHub Streak" width="50%"/>
-width="50%"/>
 </div>
