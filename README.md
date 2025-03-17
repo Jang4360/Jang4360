@@ -1,33 +1,39 @@
+<h1 align="left" style="margin-top: 50px;">JooYoon Jang</h1>
+<h3 align="left" style="margin-top: 50px;">Backend Engineer</h3>
 
-<h1 align="left" style="margin-top: 50px;">Hi, I'm JooYoon Jang</h1>
-<h3 align="left" style="margin-top: 50px;">I'm a Backend Engineer</h3>
+<div align="right">
+    <a href="mailto:jooyoon4360@gmail.com"><img src="https://img.shields.io/badge/Email-jooyoon4360@gmail.com-red?style=flat-square&logo=gmail"></a>
+    <a href="https://github.com/Jang4360"><img src="https://img.shields.io/badge/GitHub-Jang4360-black?style=flat-square&logo=github"></a>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jang4360/Taesung.git](https://github.com/Jang4360/Taesung.git)
-- 📫 How to reach me **jooyoon4360@gmail.com**
+<hr>
 
-<h3 align="left" style="margin-top: 50px;">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-    </a> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
+<h2 align="center" style="margin-top: 50px;">About Me</h2>
+<p align="center">백엔드 개발자 입니다.</p>
+
+<hr>
+
+<h2 align="center" style="margin-top: 50px;">Projects</h2>
+<ul>
+    <li><strong>악취포집기 모니터링 앱:</strong> <a href="https://github.com/Jang4360/Taesung.git">https://github.com/Jang4360/Taesung.git</a></li>
+    <li><strong>이력서 일정 관리 웹:</strong> <a href="https://github.com/Jang4360/Resume.git">https://github.com/Jang4360/Resume.git</a></li>
+</ul>
+
+<hr>
+
+<h2 align="center" style="margin-top: 50px;">Languages and Tools</h2>
+<p align="center"> 
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </p>
 
-<h3 align="left" style="margin-top: 50px;">My GitHub Stats</h3>
+<hr>
+
+<h2 align="center" style="margin-top: 50px;">My GitHub Stats</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jang4360&show_icons=true&theme=dark" alt="GitHub Stats" width="50%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jang4360&theme=dark" alt="GitHub Streak" width="50%"/>
