@@ -1,6 +1,5 @@
 <h1 align="left" style="margin-top: 50px;">JooYoon Jang</h1>
-<h3 align="left" style="margin-top: 100px;">Backend Engineer</h3>
-
+<h2 align="left" style="margin-top: 100px;">Contact Me</h3>
 <div align="left">
     <a href="mailto:jooyoon4360@gmail.com"><img src="https://img.shields.io/badge/Email-jooyoon4360@gmail.com-red?style=flat-square&logo=gmail"></a>
     <a href="https://github.com/Jang4360"><img src="https://img.shields.io/badge/GitHub-Jang4360-black?style=flat-square&logo=github"></a>
