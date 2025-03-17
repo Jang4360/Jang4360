@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm JooYoon Jang</h1>
-<h3 align="center">I'm a Backend Engineering</h3>
+<h1 align="left">Hi, I'm JooYoon Jang</h1>
+<h3 align="left">I'm a Backend Engineering</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jang4360/Taesung.git](https://github.com/Jang4360/Taesung.git)
 
