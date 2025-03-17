@@ -9,7 +9,7 @@
 <hr>
 
 <h2 align="left" style="margin-top: 50px;">About Me</h2>
-<p align="center">백엔드 개발자 입니다.</p>
+<p align="center">시스템 최적화에 강한 Java 백엔드 개발자, 안정적이고 확장 가능한 서비스를 구축하는 것을 목표로 합니다.</p>
 
 <hr>
 
@@ -22,7 +22,7 @@
 <hr>
 
 <h2 align="left" style="margin-top: 50px;">Languages and Tools</h2>
-<p align="center"> 
+<p align="left"> 
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 <hr>
 
-<h2 align="center" style="margin-top: 50px;">My GitHub Stats</h2>
+<h2 align="left" style="margin-top: 50px;">My GitHub Stats</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jang4360&show_icons=true&theme=dark" alt="GitHub Stats" width="50%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jang4360&theme=dark" alt="GitHub Streak" width="50%"/>
