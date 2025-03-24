@@ -8,7 +8,7 @@
 <hr>
 
 <h2 align="left" style="margin-top: 100px;">About Me</h2>
-<p align="left">시스템 최적화에 강한 Java 백엔드 개발자, 안정적이고 확장 가능한 서비스를 구축하는 것을 목표로 합니다.</p>
+<p align="left">시스템 최적화에 강한 Java 백엔드 개발자, 안정적이고 확장 가능한 서비스를 구축하는 것을 목표로 성장하고 있습니다.</p>
 
 <hr>
 
