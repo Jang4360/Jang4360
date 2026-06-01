@@ -9,16 +9,16 @@
 <br/>
 
 <a href="mailto:jooyoon4360@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jooyoon4360%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-jooyoon4360%40gmail.com-4EB5BC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=A9A9A9" />
 </a>
-<a href="https://github.com/Jang4360">
-  <img src="https://img.shields.io/badge/GitHub-Jang4360-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://yoon4360.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-yoon4360-4EB5BC?style=for-the-badge&logo=tistory&logoColor=white&labelColor=A9A9A9" />
 </a>
 
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=34&duration=3000&pause=2600&color=4EB6BC&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=60&lines=🔭+My+skill+is+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=3000&pause=2600&color=4EB6BC&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=60&lines=⚙️+My+skill+is+...)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
