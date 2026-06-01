@@ -1,94 +1,62 @@
 <div align="center">
-  <br><h1 align="center">Jang JooYoon</h1><br>
 
-  <h3>“운영에서 무너지지 않는 구조를 고민하며, 왜 이 선택을 했는지 설명할 수 있는 설계를 지향합니다.”</h3>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=190&text=Jang%20JooYoon&fontAlign=68&fontAlignY=34&color=0:4EB6BC,100:4EB6BC&desc=Backend%20Developer&descAlign=60&descAlignY=58)
+
+# Jang JooYoon
+
+### 함께 만드는 과정을 즐기는 개발자입니다.
+
+<br/>
+
+<a href="mailto:jooyoon4360@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jooyoon4360%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Jang4360">
+  <img src="https://img.shields.io/badge/GitHub-Jang4360-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=34&duration=3000&pause=2600&color=4EB6BC&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=60&lines=🔭+My+skill+is+...)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white" />
+</p>
+
 </div>
 
 ---
 
-## 📫 Contact
-<p align="left">
-  <a href="mailto:jooyoon4360@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jooyoon4360@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Jang4360">
-    <img src="https://img.shields.io/badge/GitHub-Jang4360-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+## 📌 Pinned Projects
 
----
+<div align="center">
 
-## 🧭 How I Work
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=34&duration=3400&pause=3000&color=4EB6BC&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=60&lines=👇+My+project+is+...)](https://git.io/typing-svg)
 
-- **Reliability First**  
-  구조화 로그와 메트릭을 통해 장애를 추적 가능한 형태로 남깁니다.
+<a href="https://github.com/Jang4360/Eumgil">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jang4360&repo=Eumgil&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Jang4360/Voda">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jang4360&repo=Voda&theme=tokyonight&hide_border=true" />
+</a>
 
-- **Explainable Decisions**  
-  ADR을 통해 기술 선택의 트레이드오프를 기록합니다.
+<a href="https://github.com/Jang4360/JackpotChain">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jang4360&repo=JackpotChain&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Jang4360/PickEat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jang4360&repo=PickEat&theme=tokyonight&hide_border=true" />
+</a>
 
-- **Consistency in Problem Solving**  
-  문제 → 원인 → 해결 → 재발 방지의 흐름으로 정리합니다.
-
----
-
-## 🧩 Core Projects
-
-### VODA — 무인 매장 이상행동 감지 및 실시간 소통 시스템  
-*Infra Lead, Backend*
-
-- WebRTC 기반 실시간 소통 채널 설계
-- GPU/CPU Hybrid 인코딩 전략으로 환경 적응형 파이프라인 구축
-- 장애 상황에서도 멈추지 않는 영상 처리 흐름 구현  
-🔗 Repo: (링크 추가)
-
----
-
-### PICK EAT — Welstory 기반 식단 추천 서비스  
-*Backend*
-
-- 로그인 기반 외부 API 연동 및 재시도 구조 설계
-- SQL 후보 추출 + AI 최종 선택의 하이브리드 추천 구조
-- MDC 기반 구조화 로그와 OpenSearch 파이프라인 구축  
-🔗 https://github.com/Jang4360/PickEat
-
----
-
-### WebTest — 웹 성능·보안 진단 및 AI 개선안 생성  
-*Backend Lead*
-
-- CORE_READY / AI_READY 비동기 파이프라인 설계
-- Long Polling + TxAfterCommit으로 정합성 보장
-- Micrometer 기반 커스텀 메트릭으로 운영 관측성 강화  
-🔗 https://github.com/Jang4360/WebTest_Backend
-
----
-
-## 🧩 Additional Projects
-
-- **Taesung Monitoring App** — 악취 포집기 모니터링 시스템  
-  🔗 https://github.com/Jang4360/Taesung
-
-- **DevInterview** — 이력서 기반 면접 질문 생성 플랫폼  
-  🔗 (정확한 링크 수정 권장)
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>  
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jang4360&theme=tokyonight" width="48%"/>
-</p>
+</div>
