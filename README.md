@@ -2,8 +2,6 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=190&text=Jang%20JooYoon&fontAlign=68&fontAlignY=34&color=0:4EB6BC,100:4EB6BC&desc=Backend%20Developer&descAlign=60&descAlignY=58)
 
-# Jang JooYoon
-
 ### 함께 만드는 과정을 즐기는 개발자입니다.
 
 <br/>
