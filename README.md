@@ -36,27 +36,3 @@
 </p>
 
 </div>
-
----
-
-## 📌 Pinned Projects
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=34&duration=3400&pause=3000&color=4EB6BC&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=60&lines=👇+My+project+is+...)](https://git.io/typing-svg)
-
-<a href="https://github.com/Jang4360/Eumgil">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jang4360&repo=Eumgil&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Jang4360/Voda">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jang4360&repo=Voda&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Jang4360/JackpotChain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jang4360&repo=JackpotChain&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Jang4360/PickEat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jang4360&repo=PickEat&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
